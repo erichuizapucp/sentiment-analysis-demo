@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+data
+pre_trained_models
+venv
