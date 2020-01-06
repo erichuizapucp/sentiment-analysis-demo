@@ -3,3 +3,4 @@
 data
 pre_trained_models
 venv
+*.pyc
